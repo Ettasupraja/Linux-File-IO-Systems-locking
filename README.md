@@ -2,8 +2,11 @@
 Ex07-Linux File-IO Systems-locking
 
 Name: ETTA SUPRAJA
+
 Register Number: 2122223220022
+
 Department: IT
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
@@ -82,9 +85,11 @@ return 0;
 
 ## OUTPUT
 C program that illustrates files copying
+
 ![image](https://github.com/user-attachments/assets/f252b48e-c6c4-47fe-8c42-c3087d680f87)
 
 C program that illustrates files locking
+
 ![image](https://github.com/user-attachments/assets/264574bd-f56b-4adc-bf22-2cdae2672732)
 
 
